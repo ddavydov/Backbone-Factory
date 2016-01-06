@@ -1,0 +1,9 @@
+{
+  "name": "Backbone-Factory",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ddavydov/Backbone-Factory",
+  "authors": [
+    "Denis Davydov <d.davydov@netronixgroup.com>"
+  ],
+  "license": "MIT"
+}
