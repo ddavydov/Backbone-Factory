@@ -1,0 +1,19 @@
+{
+  "name": "backbone-factory",
+  "version": "1.0.0",
+  "description": "Backbone Factory ================",
+  "main": "public/javascripts/backbone-factory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddavydov/Backbone-Factory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddavydov/Backbone-Factory/issues"
+  },
+  "homepage": "https://github.com/ddavydov/Backbone-Factory#readme"
+}
